@@ -35,4 +35,4 @@ Quer adicionar novos recursos ou ajustar o design? Fique à vontade para:
 Abrir uma issue com ideias.
 Enviar um pull request com melhorias.
 👨‍🚀 Criador
-<div align="center"> <p><strong>Seu Nome</strong></p> <p><a href="https://github.com/seu-usuario">GitHub</a> | Feito com ❤️ e visão futurista</p> </div>
+<div align="center"> <p><strong>G. Soares</strong></p> <p><a href="https://github.com/seu-usuario">GitHub</a> </p> </div>
