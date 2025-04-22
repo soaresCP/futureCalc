@@ -1,4 +1,4 @@
-<div align="center"> <h1>Caculadora Futurista</h1> <p>Uma experiência interativa que une matemática e design sci-fi!</p> </div>
+<div align="center"> <h1>Caculadora Futurista🚀</h1> <p>Uma experiência interativa que une matemática e design sci-fi!</p> </div>
 🌌 Sobre o Projeto
 Bem-vindo à Calculadora Futurista, um projeto desenvolvido com HTML5, CSS3 e JavaScript que transforma cálculos básicos em uma viagem visual pelo futuro! Inspirada em interfaces de ficção científica, esta calculadora combina funcionalidade com um estilo moderno, cheio de gradientes cósmicos, animações suaves e um layout que parece saído de um filme espacial.
 
